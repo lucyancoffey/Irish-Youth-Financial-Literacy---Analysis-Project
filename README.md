@@ -99,15 +99,15 @@ Irish_Youth_Financial_Literacy/
 ├── Dashboard/
 │   └── Irish_Financial_Literacy_Project.xlsx
 │
-├── Python_Analysis/
-│   └── Young_Irish_Financial_Literacy_Analysis.ipynb
-│
 ├── Images/
-│   ├── dashboard.png
 │   ├── chart1_ireland_profile.png
 │   ├── chart2_global_ranking.png
 │   ├── chart3_knowledge_questions.png
+|   ├── dashboard.png
 │   └── chart4_youth_penalty.png
+|
+├── Python_Analysis/
+│   └── Young_Irish_Financial_Literacy_Analysis.ipynb
 │
 └── README.md
 ```
