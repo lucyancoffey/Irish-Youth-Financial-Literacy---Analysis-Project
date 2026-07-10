@@ -2,7 +2,7 @@
 
 ## End-to-End Excel Dashboard & Python Analysis
 
-![Dashboard Preview](/Project/Images/dashboard.png)
+![Dashboard Preview](/Images/dashboard.png)
 
 # Overview
 
@@ -146,7 +146,7 @@ The dashboard was designed to provide an interactive overview of financial liter
 
 ### Dashboard Preview
 
-![Dashboard](/Project/Images/dashboard.png)
+![Dashboard](/Images/dashboard.png)
 
 # Python Companion Analysis
 
@@ -164,7 +164,7 @@ The notebook includes:
 
 Notebook:
 
-[Young Irish Financial Literacy Analysis](/Project/Young_Irish_Financial_Literacy_Analysis.ipynb)
+[Young Irish Financial Literacy Analysis](/Python_Analysis/Young_Irish_Financial_Literacy_Analysis.ipynb)
 
 # Analysis & Findings
 
@@ -194,7 +194,7 @@ plt.show()
 
 ### Results
 
-![Ireland Profile](/Project/Images/chart1_ireland_profile.png)
+![Ireland Profile](/Images/chart1_ireland_profile.png)
 
 ### Insights
 
@@ -209,7 +209,7 @@ To benchmark Ireland internationally, I compared overall financial literacy scor
 
 ### Results
 
-![Global Ranking](/Project/Images/chart2_global_ranking.png)
+![Global Ranking](/Images/chart2_global_ranking.png)
 
 ### Insights
 
@@ -223,7 +223,7 @@ To identify specific areas for improvement, I analysed performance across the in
 
 ### Results
 
-![Knowledge Questions](/Project/Images/chart3_knowledge_questions.png)
+![Knowledge Questions](/Images/chart3_knowledge_questions.png)
 
 ### Insights
 
@@ -240,7 +240,7 @@ This "Youth Penalty" measures how much younger adults underperform older adults 
 
 ### Results
 
-![Youth Penalty](/Project/Images/chart4_youth_penalty.png)
+![Youth Penalty](/Images/chart4_youth_penalty.png)
 
 ### Insights
 
